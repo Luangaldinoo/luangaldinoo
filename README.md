@@ -1,7 +1,7 @@
 ## Olá, eu sou o Luan Galdino 👋
 
 - 🔭 Cursando Sistemas de informação.
-- 🌱 FullStack|C|MySQL
+- 🌱 FullStack|C|JavaScript|HTML|CSS
 - 📫 Contate-me no email:(luanmorais875@gmail.com)
 - 😄 Pronouns: ele/dele
 <div style="display: inline_block"><br>
