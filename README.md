@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="146" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JpZzE1OTdmeHB6cGUwMjdmcXZ4ZXd3bW00amk1dW5oZjZvMjd0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/fftcg2GJA0wEOliba5/giphy.gif"  />
-</div>
+<h1 align="center">Bem vindos 👋</h1>
 
 ###
 
@@ -15,16 +13,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
-
-###
-
-<h1 align="center">Bem vindos 👋</h1>
 
 ###
 
