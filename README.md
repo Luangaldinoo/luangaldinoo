@@ -4,7 +4,7 @@
 💡 Curioso por soluções que impactam positivamente a sociedade  
 💻 Em constante aprendizado: **Java, Spring Boot, APIs REST, C, AWS, SQL e boas práticas de desenvolvimento.**
 
----
+-------------------verdadae
 
 ### 🧠 Sobre mim
 
