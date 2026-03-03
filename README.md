@@ -51,7 +51,7 @@ Acredito que um código bem estruturado e um design inteligente são a base para
       <sub>Réplica do spotify feito com HTML,CSS E JS.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Otavio2704/Roguelike-Java">
+      <a href="https://github.com/Luangaldinoo/Simulador-de-Caixa-Eletronico">
         <img src="https://img.shields.io/badge/-Simulador de Caixa Eletrônico%20-ED8B00?style=for-the-badge&logo=c&logoColor=white" />
         <br/> 🏦 <strong>Simulador de Caixa Eletrônico</strong>
       </a>
